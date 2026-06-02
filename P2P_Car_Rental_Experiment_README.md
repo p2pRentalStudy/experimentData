@@ -347,7 +347,7 @@ If this repository supports your research, cite the associated paper:
 @inproceedings{shahzad2026pvrp,
   title     = {Measuring Marketplace Dynamics in Peer-to-Peer Vehicle Rental Platforms: A Geospatial Longitudinal Study},
   author    = {},
-  booktitle = {Proceedings of ACM SIGSPATIAL},
+  booktitle = {},
   year      = {2026},
   note      = {Dataset and code release for peer-to-peer vehicle rental platform measurement}
 }
